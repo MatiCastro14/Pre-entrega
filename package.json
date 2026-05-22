@@ -1,0 +1,21 @@
+{
+  "name": "pre-entrega",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MatiCastro14/Pre-entrega#readme",
+  "bugs": {
+    "url": "https://github.com/MatiCastro14/Pre-entrega/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiCastro14/Pre-entrega.git"
+  },
+  "license": "MIT",
+  "author": "Matias Castro",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
